@@ -1,12 +1,18 @@
 # Teads development test
 
 ## Use case
-This java application calculate the winner of a second-price, sealed-bid auction
+This java application calculate the winner of a second-price, sealed-bid auction.
+
 lets assume
+
 An object is for sale with a reserve price.
+
 We have several potential buyers, each one being able to place one or more bids.
+
 The buyer winning the auction is the one with the highest bid above or equal to the reserve price.
+
 The winning price is the highest bid price from a non-winning buyer above the reserve price (or the reserve price if none applies)
+
 
 ### Example
 Consider 5 potential buyers (A, B, C, D, E) who compete to acquire an object with a reserve price set at 100 euros, bidding as follows:
