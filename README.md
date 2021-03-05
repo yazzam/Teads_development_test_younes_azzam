@@ -75,21 +75,16 @@ The names are alpha numerical with _
 
 here is a functionning example
 
-`auction0: 5
-
+```
+auction0: 5
 bidder0: 8, 10
-
 bidder1: 10, 12
-
 #_#
-
 auction1: 10
-
 bidder0: 8, 12
-
 bidder1: 10, 14
-
-bidder1: 12, 18`
+bidder1: 12, 18
+```
 
 To run the application with the default file  `src/main/resources/data/auctionInputs.txt` use :
 
