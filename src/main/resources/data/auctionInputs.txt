@@ -1,0 +1,8 @@
+auction0: 50
+bidder0: 8, 10
+bidder1: 10, 12
+#_#
+auction1: 2
+bidder0: 8, 12
+bidder1: 3
+bidder1: 12, 18
