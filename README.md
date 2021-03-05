@@ -18,9 +18,13 @@ The winning price is the highest bid price from a non-winning buyer above the re
 Consider 5 potential buyers (A, B, C, D, E) who compete to acquire an object with a reserve price set at 100 euros, bidding as follows:
 
 A: 2 bids of 110 and 130 euros
+
 B: 0 bid
+
 C: 1 bid of 125 euros
+
 D: 3 bids of 105, 115 and 90 euros
+
 E: 3 bids of 132, 135 and 140 euros
 
 The buyer E wins the auction at the price of 130 euros.
@@ -29,7 +33,9 @@ If two buyers have the same bid, then the auction is cancelled
 
 ## Installation
 Install git
+
 intall jdk 11.0.10 or above
+
 intsall maven 3.6.3 or above
 
 clone the project
