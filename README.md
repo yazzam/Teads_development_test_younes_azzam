@@ -39,8 +39,7 @@ build the project, this phase will also run the tests
 Now you can run the application.
 By default the input will come from a default file containing two auctions: `src/main/resources/data/auctionInputs.txt`
 The file must be formatted like follow for the application to work
-`
-aution_name: reserve_price
+`aution_name: reserve_price
 bidder_name: comma separated values of his bid
 bidder_name: comma separated values of his bid
 bidder_name: comma separated values of his bid
@@ -48,8 +47,8 @@ bidder_name: comma separated values of his bid
 aution_name: reserve_price
 bidder_name: comma separated values of his bid
 bidder_name: comma separated values of his bid
-bidder_name: comma separated values of his bid
-`
+bidder_name: comma separated values of his bid`
+
 The separator between two auctions is `#_#`
 The names are alpha numerical with _
 here is a functionning example
