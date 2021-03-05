@@ -61,11 +61,8 @@ The file must be formatted like follow for the application to work
 aution_name: reserve_price
 bidder_name: comma separated values of his bid
 bidder_name: comma separated values of his bid
-bidder_name: comma separated values of his bid
 #_#
 aution_name: reserve_price
-bidder_name: comma separated values of his bid
-bidder_name: comma separated values of his bid
 bidder_name: comma separated values of his bid
 ```
 
