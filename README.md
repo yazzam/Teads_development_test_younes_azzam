@@ -40,7 +40,7 @@ intsall maven 3.6.3 or above
 
 clone the project
 
-`git clone --branch master https://github.com/yazzam/teadsTest`
+`git clone https://github.com/yazzam/teads_development_test_younes_azzam.git`
 
 Navigate to root directory
 
