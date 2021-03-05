@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="teadsTest" />
         <module name="teadsTest - Copie" />
+        <module name="teadsDevelopementTest" />
       </profile>
     </annotationProcessing>
   </component>
