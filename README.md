@@ -44,9 +44,9 @@ clone the project
 
 Navigate to root directory
 
-`cd teadsTest`
+`cd teads_development_test_younes_azzam`
 
-build the project, this phase will also run the tests
+build the project, this phase will also run the unit tests
 
 `mvn clean install`
 
