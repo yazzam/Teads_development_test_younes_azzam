@@ -57,23 +57,17 @@ By default the input will come from a default file containing two auctions: `src
 
 The file must be formatted like follow for the application to work
 
-`aution_name: reserve_price
-
-bidder_name: comma separated values of his bid
-
-bidder_name: comma separated values of his bid
-
-bidder_name: comma separated values of his bid
-
-#_#
-
+```
 aution_name: reserve_price
-
 bidder_name: comma separated values of his bid
-
 bidder_name: comma separated values of his bid
-
-bidder_name: comma separated values of his bid`
+bidder_name: comma separated values of his bid
+#_#
+aution_name: reserve_price
+bidder_name: comma separated values of his bid
+bidder_name: comma separated values of his bid
+bidder_name: comma separated values of his bid
+```
 
 The separator between two auctions is `#_#`
 
