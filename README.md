@@ -39,7 +39,7 @@ intall jdk 11.0.10 or above
 intsall maven 3.6.3 or above
 
 clone the project
-`git clone --branch master https://github.com/yazzam/teadsTest`
+```git clone --branch master https://github.com/yazzam/teadsTest```
 
 Navigate to root directory
 `cd teadsTest`
